@@ -1,0 +1,7 @@
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Release\net472\Dinozavor.exe.config
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Release\net472\Dinozavor.exe
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Release\net472\Dinozavor.pdb
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Release\net472\Dinozavor.AssemblyInfoInputs.cache
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Release\net472\Dinozavor.AssemblyInfo.cs
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Release\net472\Dinozavor.exe
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Release\net472\Dinozavor.pdb

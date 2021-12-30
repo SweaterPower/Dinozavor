@@ -1,0 +1,11 @@
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Debug\netcoreapp3.1\Dinozavor.exe
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Debug\netcoreapp3.1\Dinozavor.deps.json
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Debug\netcoreapp3.1\Dinozavor.runtimeconfig.json
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Debug\netcoreapp3.1\Dinozavor.runtimeconfig.dev.json
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Debug\netcoreapp3.1\Dinozavor.dll
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\bin\Debug\netcoreapp3.1\Dinozavor.pdb
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Debug\netcoreapp3.1\Dinozavor.csprojAssemblyReference.cache
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Debug\netcoreapp3.1\Dinozavor.AssemblyInfoInputs.cache
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Debug\netcoreapp3.1\Dinozavor.AssemblyInfo.cs
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Debug\netcoreapp3.1\Dinozavor.dll
+C:\Users\swite\YandexDisk\repos\Dinozavor\Dinozavor\obj\Debug\netcoreapp3.1\Dinozavor.pdb
